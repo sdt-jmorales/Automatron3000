@@ -1,0 +1,126 @@
+APC,APC,APC codes with weights,10/1/2016,APC201610.txt
+APC,APC,APC codes with weights,1/1/2017,APC201701.txt
+APC,APC,APC codes with weights,4/1/2017,APC201704.txt
+APC,APC,APC codes with weights,7/1/2017,APC201707.txt
+APC,APC,APC codes with weights,10/1/2017,APC201710.txt
+APC,APC,APC codes with weights,1/1/2018,APC201801.txt
+APC,APC,APC codes with weights,4/1/2018,APC201804.txt
+APC,APC,APC codes with weights,7/1/2018,APC201807.txt
+APC,APC,APC codes with weights,10/1/2018,APC201810.txt
+APC,APC,APC codes with weights,1/1/2019,APC201901.txt
+APC,APC,APC codes with weights,4/1/2019,APC201904.txt
+APC,APC,APC codes with weights,7/1/2019,APC201907.txt
+APC,APC,APC codes with weights,10/1/2019,APC201910.txt
+APC,APC,APC codes with weights,1/1/2020,APC202001.txt
+APC,APC,APC codes with weights,4/1/2020,APC202004.txt
+APC,APC,APC codes with weights,7/1/2020,APC202007.txt
+APC,APC,APC codes with weights,10/1/2020,APC202010.txt
+APC,APC,APC codes with weights,1/1/2021,APC202101.txt
+APC,APC,APC codes with weights,4/1/2021,APC202104.txt
+APC,APC,APC codes with weights,7/1/2021,APC202107.txt
+APC,APC,APC codes with weights,10/1/2021,APC202110.txt
+APR DRG,APR DRG,APR DRG codes without weights,10/1/2016,APRDRG201610.txt
+APR DRG Weights,APR DRG,APR DRG codes with national weights,10/1/2016,APRDRGWeights201610.txt
+APR DRG,APR DRG,APR DRG codes without weights,10/1/2017,APRDRG201710.txt
+APR DRG Weights,APR DRG,APR DRG codes with national weights,10/1/2017,APRDRGWeights201710.txt
+APR DRG,APR DRG,APR DRG codes without weights,10/1/2018,APRDRG201810.txt
+APR DRG Weights,APR DRG,APR DRG codes with national weights,10/1/2018,APRDRGWeights201810.txt
+APR DRG,APR DRG,APR DRG codes without weights,10/1/2019,APRDRG201910.txt
+APR DRG Weights,APR DRG,APR DRG codes with national weights,10/1/2019,APRDRGWeights201910.txt
+CPT,CPT,CPT and HCPCS codes,1/1/2017,CPT201701.txt
+CPT,CPT,CPT and HCPCS codes,7/1/2017,CPT201707.txt
+CPT,CPT,CPT and HCPCS codes,10/1/2017,CPT201710.txt
+CPT,CPT,CPT and HCPCS codes,1/2/2018,CPT201801.txt
+CPT,CPT,CPT and HCPCS codes,4/1/2018,CPT201804.txt
+CPT,CPT,CPT and HCPCS codes,7/1/2018,CPT201807.txt
+CPT,CPT,CPT and HCPCS codes,10/1/2018,CPT201810.txt
+CPT,CPT,CPT and HCPCS codes,1/3/2019,CPT201901.txt
+CPT,CPT,CPT and HCPCS codes,4/1/2019,CPT201904.txt
+CPT,CPT,CPT and HCPCS codes,7/1/2019,CPT201907.txt
+CPT,CPT,CPT and HCPCS codes,10/1/2019,CPT201910.txt
+CPT,CPT,CPT and HCPCS codes,1/1/2020,CPT202001.txt
+CPT,CPT,CPT and HCPCS codes,4/1/2020,CPT202004.txt
+CPT,CPT,CPT and HCPCS codes,10/1/2020,CPT202010.txt
+CPT,CPT,CPT and HCPCS codes,1/1/2021,CPT202101.txt
+CPTAPC,CPT,CPT and HCPCS codes,7/1/2018,CPTAPC201807.txt
+CPTAPC,CPT,CPT and HCPCS codes,1/1/2020,CPTAPC202001.txt
+CPTAPC,CPT,CPT and HCPCS codes,4/1/2020,CPTAPC202004.txt
+CPTAPC,CPT,CPT and HCPCS codes,10/1/2020,CPTAPC202010.txt
+CPTAPC,CPT,CPT and HCPCS codes,1/1/2021,CPTAPC202101.txt
+CPTAPC,CPT,CPT and HCPCS codes,7/1/2021,CPTAPC202107.txt
+HCPCS,CPT,CPT and HCPCS codes,1/1/2017,HCPCS201701.txt
+HCPCS,CPT,CPT and HCPCS codes,7/1/2017,HCPCS201707.txt
+HCPCS,CPT,CPT and HCPCS codes,10/1/2017,HCPCS201710.txt
+HCPCS,CPT,CPT and HCPCS codes,1/2/2018,HCPCS201801.txt
+HCPCS,CPT,CPT and HCPCS codes,7/1/2018,HCPCS201807.txt
+HCPCS,CPT,CPT and HCPCS codes,1/2/2019,HCPCS201901.txt
+HCPCS,CPT,CPT and HCPCS codes,4/1/2019,HCPCS201904.txt
+HCPCS,CPT,CPT and HCPCS codes,7/1/2019,HCPCS201907.txt
+HCPCS,CPT,CPT and HCPCS codes,10/1/2020,HCPCS202010.txt
+HCPCS,CPT,CPT and HCPCS codes,4/1/2021,HCPCS202104.txt
+CPT Modifier,Modifier,CPT and HCPCS Modifiers,1/1/2017,CPTModifier201701.txt
+CPT Modifier,Modifier,CPT and HCPCS Modifiers,10/1/2018,CPTModifier201810.txt
+HCPCS Modifier,Modifier,CPT and HCPCS Modifiers,1/1/2017,HCPCSModifier201701.txt
+ICD9 DX,ICD9 DX,ICD9 Diagnoses Codes with and without decimals,10/1/2014,ICD9DX201410.txt
+ICD9 PX,ICD9 PX,ICD9 Procedure Codes with and without decimals,10/1/2014,ICD9PX201410.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,10/1/2016,ICD10DX201610.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,10/1/2017,ICD10DX201710.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,10/1/2018,ICD10DX201810.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,10/1/2019,ICD10DX201910.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,4/1/2020,ICD10DX202004.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,10/1/2020,ICD10DX202010.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,1/1/2021,ICD10DX202101.txt
+ICD10 DX,ICD10 DX,ICD10 Diagnoses Codes with and without decimals,10/1/2021,ICD10DX202110.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,10/1/2016,ICD10PX201610.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,10/1/2017,ICD10PX201710.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,10/1/2018,ICD10PX201810.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,10/1/2019,ICD10PX201910.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,08/1/2020,ICD10PX202008.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,10/1/2020,ICD10PX202010.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,1/1/2021,ICD10PX202101.txt
+ICD10 PX,ICD10 PX,ICD10 Procedure Codes without decimals,10/1/2021,ICD10PX202110.txt
+MS DRG,MS DRG,MS DRG codes with weights,10/1/2019,MSDRG201910.txt
+MS DRG,MS DRG,MS DRG codes with weights,10/1/2018,MSDRG201810.txt
+MS DRG,MS DRG,MS DRG codes with weights (correction for weights released),10/2/2017,MSDRG201710.txt
+MS DRG,MS DRG,MS DRG codes with weights,10/1/2016,MSDRG201610.txt
+MS DRG,MS DRG,MS DRG codes with weights,4/1/2020,MSDRG202004.txt
+MS DRG,MS DRG,MS DRG codes with weights,10/1/2020,MSDRG202010.txt
+MS DRG,MS DRG,MS DRG codes with weights,10/1/2021,MSDRG202110.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,1/1/2017,UBRevenueCode201701.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,10/1/2017,UBRevenueCode201710.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,7/1/2018,UBRevenueCode201807.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,10/1/2018,UBRevenueCode201810.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,1/1/2019,UBRevenueCode201901.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,7/1/2019,UBRevenueCode201907.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,1/1/2020,UBRevenueCode202001.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,7/1/2020,UBRevenueCode202007.txt
+UB Revenue Code,UB Revenue Code,UB Revenue Codes,1/1/2021,UBRevenueCode202101.txt
+Zip Code,Zip Code,Zip Codes,1/15/2018,ZipCode201701.txt
+Zip Code,Zip Code,Zip Codes,1/01/2021,ZipCode202101.txt
+MDC,MDC,MDC Codes,10/1/2016,MDC201610.txt
+NDC,NDC,NDC Codes,1/1/2021,NDC202101.txt
+NDC,NDC,NDC Codes,10/1/2021,NDC202110.txt
+Condition,Condition,Condition Codes,11/1/2017,Condition201711.txt
+Occurrence,Occurrence,Occurrence Codes,1/1/2018,Occurrence201801.txt
+Occurrence Span,Occurrence Span,Occurrence Span Codes,12/1/2017,OccurrenceSpan201712.txt
+Value Code,Value Code,Value Codes,12/1/2017,Value201712.txt
+Adjustment Reason,Adjustment Reason,Adjustment Reason Codes,2/1/2018,AdjustmentReason201802.txt
+Remittance Remark,Remittance Remark,Remittance Remark Codes,2/1/2018,RemittanceRemark201802.txt
+SDS Account Rollup,SDS Account Rollup,SPH Account Rollup Codes,8/26/2019,SDSAccountRollup201908.txt
+SDS Account Rollup,SDS Account Rollup,SPH Account Rollup Codes,9/26/2019,SDSAccountRollup201909.txt
+SPH Account Rollup,SPH Account Rollup,SPH Account Rollup Codes,11/01/2020,SPHAccountRollup202011.txt
+SPH Account Rollup,SPH Account Rollup,SPH Account Rollup Codes,06/01/2021,SPHAccountRollup202106.txt
+Sg2 CARE Family,Sg2 CARE Family,Sg2 CARE Family Codes,02/01/2020,Sg2CAREFamily202002.txt
+Sg2 CARE Family,Sg2 CARE Family,Sg2 CARE Family Codes,06/01/2020,Sg2CAREFamily202006.txt
+Sg2 CARE Family,Sg2 CARE Family,Sg2 CARE Family Codes,12/22/2020,Sg2CAREFamily202012.txt
+Sg2 CARE Procedure Group,Sg2 CARE Procedure Group,Sg2 CARE Procedure Group Codes,02/01/2020,Sg2CAREProcedureGroup202002.txt
+Sg2 CARE Procedure Group,Sg2 CARE Procedure Group,Sg2 CARE Procedure Group Codes,06/01/2020,Sg2CAREProcedureGroup202006.txt
+Sg2 CARE Procedure Group,Sg2 CARE Procedure Group,Sg2 CARE Procedure Group Codes,12/22/2020,Sg2CAREProcedureGroup202012.txt
+Sg2 Service Line,Sg2 Service Line, Sg2 Service Line Codes,10/01/2021,ServiceLines202110.txt
+SPH Job Code Rollup,SPH Job Code Rollup,SPH Job Code Rollup Codes,05/02/2021,SPHJobCodeRollup202105.txt
+SPH Department Rollup,SPH Department Rollup,SPH Department Rollup Codes,05/02/2021,SPHDepartmentRollup202105.txt
+SPH Department Type,SPHDepartmentType, SPH Department Type Codes, 11/02/2020,SPHDepartmentType202011.txt
+SPH Allocation Config Target Map,SPH Allocation Config Target Map,SPH Allocation Config Target Map Codes,10/1/2020,SPHAllocationConfigTargetMap202010.txt
+SPH Allocation Config Target Map,SPH Allocation Config Target Map,SPH Allocation Config Target Map Codes,04/1/2021,SPHAllocationConfigTargetMap202104.txt
+SPH Payor Type,SPH Payor Type,SPH Payor Type Codes,02/02/2021,SPHPayorType202102.txt
+SPH Pay Code Rollup,SPH Pay Code Rollup,SPH Pay Code Rollup Codes,11/01/2021,SPHPayCodeRollup202111.txt
