@@ -113,6 +113,7 @@ SPH Account Rollup,SPH Account Rollup,SPH Account Rollup Codes,06/01/2021,SPHAcc
 Sg2 CARE Family,Sg2 CARE Family,Sg2 CARE Family Codes,02/01/2020,Sg2CAREFamily202002.txt
 Sg2 CARE Family,Sg2 CARE Family,Sg2 CARE Family Codes,06/01/2020,Sg2CAREFamily202006.txt
 Sg2 CARE Family,Sg2 CARE Family,Sg2 CARE Family Codes,12/22/2020,Sg2CAREFamily202012.txt
+Sg2CAREFamily,Sg2CAREFamily,Sg2CAREFamily,12/1/2020,Sg2CAREFamily202012.txt
 Sg2 CARE Procedure Group,Sg2 CARE Procedure Group,Sg2 CARE Procedure Group Codes,02/01/2020,Sg2CAREProcedureGroup202002.txt
 Sg2 CARE Procedure Group,Sg2 CARE Procedure Group,Sg2 CARE Procedure Group Codes,06/01/2020,Sg2CAREProcedureGroup202006.txt
 Sg2 CARE Procedure Group,Sg2 CARE Procedure Group,Sg2 CARE Procedure Group Codes,12/22/2020,Sg2CAREProcedureGroup202012.txt
