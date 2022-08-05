@@ -95,6 +95,7 @@ UB Revenue Code,UB Revenue Code,UB Revenue Codes,7/1/2019,UBRevenueCode201907.tx
 UB Revenue Code,UB Revenue Code,UB Revenue Codes,1/1/2020,UBRevenueCode202001.txt
 UB Revenue Code,UB Revenue Code,UB Revenue Codes,7/1/2020,UBRevenueCode202007.txt
 UB Revenue Code,UB Revenue Code,UB Revenue Codes,1/1/2021,UBRevenueCode202101.txt
+UBRevenueCode,UBRevenueCode,UBRevenueCode,02/1/2022,UBRevenueCode202202.txt
 Zip Code,Zip Code,Zip Codes,1/15/2018,ZipCode201701.txt
 Zip Code,Zip Code,Zip Codes,1/01/2021,ZipCode202101.txt
 MDC,MDC,MDC Codes,10/1/2016,MDC201610.txt
